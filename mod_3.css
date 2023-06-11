@@ -1,1 +1,30 @@
+body 
+{
+    color: 	#7fff00;
+    font-family: sans-serif;
+}
 
+.navbar 
+{
+    border-radius: 0;
+  border: 0;
+}
+
+.navbar-default .navbar-brand
+{
+    color: #dc143c;
+}
+
+h2 
+{
+    margin-top: 20px;
+}
+
+section 
+{
+  padding: 5%;
+  background-color: 	#1e90ff; 
+  border: 1px solid #000;
+  margin-bottom: 5%;
+  margin-top: 7%;
+}
